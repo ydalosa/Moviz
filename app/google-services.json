@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329569864311",
+    "project_id": "moviz-bb675",
+    "storage_bucket": "moviz-bb675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329569864311:android:b2f95e21e9f82323e31472",
+        "android_client_info": {
+          "package_name": "com.dalosa.moviz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329569864311-vh27igt4uuovm8ffb22croat75d136f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUEzfpPIGCMo1a0839dWQUfJcV104jd3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329569864311-vh27igt4uuovm8ffb22croat75d136f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

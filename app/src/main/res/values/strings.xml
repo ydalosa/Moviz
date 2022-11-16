@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Moviz</string>
+    <string name="Connected">Connected !</string>
+    <string name="error_canceled">erreur</string>
+    <string name="sign_result_unknow_error">rechercheErreur</string>
+</resources>
